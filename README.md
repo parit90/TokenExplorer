@@ -1,11 +1,11 @@
 # Token-Explorer
-## Tech stack- Node.js, Typescript, Graphql, Alchemy blockchain
+*Tech stack- Node.js, Typescript, Graphql, Alchemy blockchain API*
 
 ### Please create and use API_KEY from alchemy [a link] https://www.alchemy.com/
 ### Replace your own API_KEY in config/default.json file
 
 
-## With this project one can query ethereum mainnet for a token (chainLink)
+### With this project one can query ethereum mainnet for a token (chainLink)
 
 ## method used are:
 ### getTokenName -> return chainlink token name
