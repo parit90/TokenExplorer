@@ -17,7 +17,7 @@
 ### getPriceEth -> 
 **it will check the price in the uniswap pool with (WETH-Link) token pair**
 ### getPriceUSD -> 
-** get the Price of the token in usd **
+**get the Price of the token in usd**
 
 *To start the project*
 **npm install**
