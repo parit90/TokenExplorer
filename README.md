@@ -8,12 +8,18 @@
 *With this project one can query ethereum mainnet for a token (chainLink)*
 
 ## method used are:
-### getTokenName -> return chainlink token name
-### getTokenSupply -> return total supply for chain link token
-### getTokenSymbol -> return the chainlink symbol
-### getPriceEth -> it will check the price in the uniswap pool with (WETH-Link) token pair
+### getTokenName -> 
+**return chainlink token name**
+### getTokenSupply -> 
+**return total supply for chain link token**
+### getTokenSymbol -> 
+**return the chainlink symbol**
+### getPriceEth -> 
+**it will check the price in the uniswap pool with (WETH-Link) token pair**
 ### getPriceUSD -> 
+** get the Price of the token in usd **
 
 *To start the project*
 **npm install**
+</b>
 **yarn play**
