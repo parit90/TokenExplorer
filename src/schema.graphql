@@ -1,0 +1,12 @@
+type Query{
+    getTokenName(address: String) :String
+    
+    getTokenSymbol(address: String) :String
+    
+    getTokenSupply(address: String) :String
+    
+    getPriceEth(address: String) :String
+    
+    getPriceUSD(address: String) :String
+
+}
